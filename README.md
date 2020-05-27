@@ -1,1 +1,1 @@
-# ICPC-Template
+# Algorithm-template
